@@ -46,7 +46,7 @@ This repository includes all the projects developed in The Tech Academy using C-
 
 Alejandro G. Reyes Aldeco - agreyesaldeco@gmail.com
 
-Project Link: [https://github.com/AlexGReyes/Basic-C-Sharp-Projects](Basic-C-Sharp-Projects)
+Project Link: [Basic-C-Sharp-Projects](https://github.com/AlexGReyes/Basic-C-Sharp-Projects)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
