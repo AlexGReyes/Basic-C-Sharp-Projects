@@ -4,3 +4,4 @@ C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\dailyReport\bin\Deb
 C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\dailyReport\obj\Debug\dailyReport.csproj.CoreCompileInputs.cache
 C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\dailyReport\obj\Debug\dailyReport.exe
 C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\dailyReport\obj\Debug\dailyReport.pdb
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\dailyReport\obj\Debug\dailyReport.csproj.AssemblyReference.cache

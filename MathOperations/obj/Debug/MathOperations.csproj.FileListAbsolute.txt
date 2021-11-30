@@ -1,0 +1,7 @@
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\MathOperations\bin\Debug\MathOperations.exe.config
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\MathOperations\bin\Debug\MathOperations.exe
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\MathOperations\bin\Debug\MathOperations.pdb
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\MathOperations\obj\Debug\MathOperations.csproj.AssemblyReference.cache
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\MathOperations\obj\Debug\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\MathOperations\obj\Debug\MathOperations.exe
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\MathOperations\obj\Debug\MathOperations.pdb
