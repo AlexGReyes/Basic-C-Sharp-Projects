@@ -1,0 +1,7 @@
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\whileDoWhile\bin\Debug\whileDoWhile.exe.config
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\whileDoWhile\bin\Debug\whileDoWhile.exe
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\whileDoWhile\bin\Debug\whileDoWhile.pdb
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\whileDoWhile\obj\Debug\whileDoWhile.csproj.AssemblyReference.cache
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\whileDoWhile\obj\Debug\whileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\whileDoWhile\obj\Debug\whileDoWhile.exe
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\whileDoWhile\obj\Debug\whileDoWhile.pdb
