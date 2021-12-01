@@ -1,0 +1,7 @@
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\arrays\bin\Debug\arrays.exe.config
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\arrays\bin\Debug\arrays.exe
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\arrays\bin\Debug\arrays.pdb
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\arrays\obj\Debug\arrays.exe
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\arrays\obj\Debug\arrays.pdb

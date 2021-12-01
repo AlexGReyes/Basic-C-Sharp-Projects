@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\dailyReport"
+    "\\booleanLogic",
+    "\\branching",
+    "\\dailyReport",
+    "\\mathAndComparisonOp",
+    "\\MathOperations",
+    "\\strings",
+    "\\whileDoWhile"
   ],
-  "SelectedNode": "\\dailyReport\\Program.cs",
+  "SelectedNode": "\\strings\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
