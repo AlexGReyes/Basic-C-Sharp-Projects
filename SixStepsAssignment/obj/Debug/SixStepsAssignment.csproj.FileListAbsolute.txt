@@ -1,0 +1,7 @@
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\SixStepsAssignment\bin\Debug\SixStepsAssignment.exe.config
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\SixStepsAssignment\bin\Debug\SixStepsAssignment.exe
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\SixStepsAssignment\bin\Debug\SixStepsAssignment.pdb
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\SixStepsAssignment\obj\Debug\SixStepsAssignment.csproj.AssemblyReference.cache
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\SixStepsAssignment\obj\Debug\SixStepsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\SixStepsAssignment\obj\Debug\SixStepsAssignment.exe
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\SixStepsAssignment\obj\Debug\SixStepsAssignment.pdb
