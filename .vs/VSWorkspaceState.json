@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\GeoMath\\GeoMath"
+    "\\MathSubmission",
+    "\\MathSubmission\\MathSubmission"
   ],
-  "SelectedNode": "\\SixStepsAssignment",
+  "SelectedNode": "\\MathSubmission\\MathSubmission\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
