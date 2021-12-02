@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\MathSubmission\MathSubmission\bin\Debug\MathSubmission.exe.config
+C:\Users\Alex\source\repos\MathSubmission\MathSubmission\bin\Debug\MathSubmission.exe
+C:\Users\Alex\source\repos\MathSubmission\MathSubmission\bin\Debug\MathSubmission.pdb
+C:\Users\Alex\source\repos\MathSubmission\MathSubmission\obj\Debug\MathSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MathSubmission\MathSubmission\obj\Debug\MathSubmission.exe
+C:\Users\Alex\source\repos\MathSubmission\MathSubmission\obj\Debug\MathSubmission.pdb
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\MathSubmission\MathSubmission\bin\Debug\MathSubmission.exe.config
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\MathSubmission\MathSubmission\bin\Debug\MathSubmission.exe
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\MathSubmission\MathSubmission\bin\Debug\MathSubmission.pdb
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\MathSubmission\MathSubmission\obj\Debug\MathSubmission.csproj.AssemblyReference.cache
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\MathSubmission\MathSubmission\obj\Debug\MathSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\MathSubmission\MathSubmission\obj\Debug\MathSubmission.exe
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\MathSubmission\MathSubmission\obj\Debug\MathSubmission.pdb
