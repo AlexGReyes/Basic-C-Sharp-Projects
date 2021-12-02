@@ -10,12 +10,16 @@ class Program
                                                    // PART ONE ASSIGNMENT
         string[] stringArra1 = new string[5];                                               // DECLARING AN EMPTY ARRAY OF STRINGS WITH LENGTH OF 5
         int stringLength = stringArra1.Length;                                              // ASIGNING TO stringLength THE ARRAY'S LENGTH
-
+        stringArra1[0] = "String1 : ";
+        stringArra1[1] = "String2 : ";
+        stringArra1[2] = "String3 : ";
+        stringArra1[3] = "String4 : ";
+        stringArra1[4] = "String5 : ";
 
         for (int i = 0; i < stringLength; i++)                                              // FOR LOOP TO INSERT STRINGS WRITTEN BY THE USER
         {
             Console.WriteLine("Write {0:d} senteces more", stringLength-i);
-            stringArra1[i] = Console.ReadLine();
+            stringArra1[i] += Console.ReadLine();
         }
 
 
@@ -73,31 +77,27 @@ class Program
         dinosaurs.Add("Megalosaurus");
 
         Console.WriteLine("\n\n\nWrite a dinosaur name to search it on the list : ");   // REQUESTING A NAME TO SEARCH IT ON THE LIST
-        string name;
         bool nameFound = false;
         int indexD;
+        string name;
+
 
         while (!nameFound)
         {
-            indexD = 0;                                                                // DECLARING A VAR TO KNOW AN SPECIFIC POSITION OF THE LIST
             name = Console.ReadLine();
-            foreach (string el in dinosaurs)                                            // MOVING THROUGH THE LIST
+            for(int i=0; i<dinosaurs.Count; i++)                                        // MOVING THROUGH THE LIST
             {
-                if (el.ToUpper().Equals(name.ToUpper()))                                // IF THE NAME IS FOUND, BREAK THE FOREACH BUCLE
+                if (dinosaurs[i].ToUpper().Equals(name.ToUpper()))                      // IF THE NAME IS FOUND, BREAK THE FOREACH BUCLE
                 {
                     nameFound = true;
+                    Console.WriteLine("the dinosaur is at position : {0:d}", i);
                     break;
                 }
-                indexD++;                                                               // INCREASING THE POSITION ON THE LIST
             }
-            if (nameFound)                                                              // IF THE NAME EXISTS ON THE LIST, SHOWS THE POSITION
+        
+            if (!nameFound)                                                              // OTHERWISE REQUEST A NAME AGAIN UNTIL FIND IT ON THE LIST
             {
-                Console.WriteLine("the dinosaur is at position : {0:d}", indexD);
-                break;
-            }
-            else
-            {                                                                           // OTHERWISE REQUEST A NAME AGAIN UNTIL FIND IT ON THE LIST
-                Console.WriteLine("The Dinosaur not exist on the list, try againg ; ");
+                Console.WriteLine("The Dinosaur not exist on the list, try againg ");
             }
         }
 
@@ -112,23 +112,21 @@ class Program
         dinosaurs.Add("Megalosaurus");
 
         List<int> dinosaursMatching = new List<int>();                                  // DECLARING A LIST WHERE WE SAVE ALL MATCHES
-        
 
         nameFound = false;
         Console.WriteLine("\n\n\nWrite a dinosaur name to search it on the list : ");
         while (true)
         {
-            indexD = 0;
             name = Console.ReadLine();
-            foreach (string el in dinosaurs)                                            // MOVING THROUGH THE LIST
+            for(int i=0; i<dinosaurs.Count; i++)                                        // MOVING THROUGH THE LIST
             {
-                if (el.ToUpper().Equals(name.ToUpper()))                                // COMPARING THE USER INPUT WITH AN SPECIFIC LIST VALUE
+                if (dinosaurs[i].ToUpper().Equals(name.ToUpper()))                      // IF THE NAME IS FOUND, BREAK THE FOREACH BUCLE
                 {
                     nameFound = true;
-                    dinosaursMatching.Add(indexD);
+                    dinosaursMatching.Add(i);
                 }
-                indexD++;
             }
+        
             if (nameFound)                                                              // IF A NAME EXISTS SHOWS THE POSITIONS WHERE IT IS LOCATED
             {
                 Console.WriteLine("The dinosaur is at positions : "+String.Join(", ", dinosaursMatching.ToArray()));
@@ -145,18 +143,20 @@ class Program
         //************************************************************************************************************************
         // PART SIX  ASSIGNMENT
 
+        List<string> dino2 = new List<string>();
+        Console.WriteLine("\n\n\n");
         foreach (string el in dinosaurs)                                // MOVING THROUGH THE LIST
         {
-            List<string> dinosaursClean = new List<string>();           // DECLARING A NEW LIST TO SAVE COINCIDENCES
-            var newList = dinosaurs.FindAll(s => s.Equals(el));         // SEARCHING ALL COINCIDENCES 
-            if(newList.Count >1)                                        // IF THERE ARE MORE THAN ONE COINCIDENCES, 
+            if(dino2.Exists(e => e.Equals(el)))
             {
-                Console.WriteLine(el + " \tis already in the list");
+                Console.WriteLine(el + "\thas already been seen in the list");
             }
             else
-            {                                                           // IF THERE IS ONLY ONE COINCIDENCE
-                Console.WriteLine(el + " \tis not in the list");
+            {
+                Console.WriteLine(el + "\thas not been seen in the list");
+                dino2.Add(el);
             }
+
 
         }
 
