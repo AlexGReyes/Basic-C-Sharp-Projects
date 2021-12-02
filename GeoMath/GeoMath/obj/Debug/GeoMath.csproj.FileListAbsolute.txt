@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\GeoMath\GeoMath\bin\Debug\GeoMath.exe.config
+C:\Users\Alex\source\repos\GeoMath\GeoMath\bin\Debug\GeoMath.exe
+C:\Users\Alex\source\repos\GeoMath\GeoMath\bin\Debug\GeoMath.pdb
+C:\Users\Alex\source\repos\GeoMath\GeoMath\obj\Debug\GeoMath.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\GeoMath\GeoMath\obj\Debug\GeoMath.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\GeoMath\GeoMath\obj\Debug\GeoMath.exe
+C:\Users\Alex\source\repos\GeoMath\GeoMath\obj\Debug\GeoMath.pdb
