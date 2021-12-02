@@ -8,7 +8,7 @@ namespace MathOper2
 {
     class OperationGround
     {
-        public int ExchangeRate(int a, int b = 1)       // DECLARATION OF A METHOD WITH ONE OPCIONAL PARAMETER
+        public int ExchangeRate(int a, int b = 1)       // DECLARATION OF A METHOD WITH ONE OPTIONAL PARAMETER
         {
             return (a * 100) / (b + 1);
         }
