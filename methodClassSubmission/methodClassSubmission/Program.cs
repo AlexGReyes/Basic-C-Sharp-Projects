@@ -28,7 +28,12 @@ namespace methodClassSubmission
                 else
                 {                                                                       // IF BOTH ARE INTEGER NUMBERS
                     Operation1 o1 = new Operation1();                                   // INSTANTIATE THE CLASS
-                    o1.Oper1(Int32.Parse(numStr), Int32.Parse(numStr2));                // CALLING A METHOD FROM Operation1 CLASS
+                    int numA = Int32.Parse(numStr);
+                    int numB = Int32.Parse(numStr2);
+                    o1.Oper1(numA, numB);                                               // CALLING A METHOD FROM Operation1 CLASS
+
+                    
+                    o1.Oper1(a : numA, b : numB);                                       // CALLING A METHOD FROM Operation1 CLASS SPECIFYING THE PARAMETER BY NAME
                 }
             }
             Console.Read();
