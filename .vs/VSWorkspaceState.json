@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MathOper2",
     "\\MathOper2\\MathOper2",
-    "\\MathSubmission\\MathSubmission"
+    "\\methodClassSubmission",
+    "\\methodClassSubmission\\methodClassSubmission"
   ],
-  "SelectedNode": "\\MathOper2\\MathOper2\\OperationGround.cs",
+  "SelectedNode": "\\mathAndComparisonOp",
   "PreviewInSolutionExplorer": false
 }
