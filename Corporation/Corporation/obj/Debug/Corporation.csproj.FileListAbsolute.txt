@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Corporation\Corporation\bin\Debug\Corporation.exe.config
+C:\Users\Alex\source\repos\Corporation\Corporation\bin\Debug\Corporation.exe
+C:\Users\Alex\source\repos\Corporation\Corporation\bin\Debug\Corporation.pdb
+C:\Users\Alex\source\repos\Corporation\Corporation\obj\Debug\Corporation.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Corporation\Corporation\obj\Debug\Corporation.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Corporation\Corporation\obj\Debug\Corporation.exe
+C:\Users\Alex\source\repos\Corporation\Corporation\obj\Debug\Corporation.pdb
