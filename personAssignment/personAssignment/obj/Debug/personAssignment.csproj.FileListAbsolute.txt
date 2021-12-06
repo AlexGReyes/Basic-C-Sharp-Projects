@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\personAssignment\personAssignment\bin\Debug\personAssignment.exe.config
+C:\Users\Alex\source\repos\personAssignment\personAssignment\bin\Debug\personAssignment.exe
+C:\Users\Alex\source\repos\personAssignment\personAssignment\bin\Debug\personAssignment.pdb
+C:\Users\Alex\source\repos\personAssignment\personAssignment\obj\Debug\personAssignment.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\personAssignment\personAssignment\obj\Debug\personAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\personAssignment\personAssignment\obj\Debug\personAssignment.exe
+C:\Users\Alex\source\repos\personAssignment\personAssignment\obj\Debug\personAssignment.pdb
