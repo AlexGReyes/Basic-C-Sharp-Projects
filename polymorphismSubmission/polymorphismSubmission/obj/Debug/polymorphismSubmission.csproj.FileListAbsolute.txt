@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\polymorphismSubmission\polymorphismSubmission\obj\Debug\polymorphismSubmission.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\polymorphismSubmission\polymorphismSubmission\obj\Debug\polymorphismSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\polymorphismSubmission\polymorphismSubmission\bin\Debug\polymorphismSubmission.exe.config
+C:\Users\Alex\source\repos\polymorphismSubmission\polymorphismSubmission\bin\Debug\polymorphismSubmission.exe
+C:\Users\Alex\source\repos\polymorphismSubmission\polymorphismSubmission\bin\Debug\polymorphismSubmission.pdb
+C:\Users\Alex\source\repos\polymorphismSubmission\polymorphismSubmission\obj\Debug\polymorphismSubmission.exe
+C:\Users\Alex\source\repos\polymorphismSubmission\polymorphismSubmission\obj\Debug\polymorphismSubmission.pdb

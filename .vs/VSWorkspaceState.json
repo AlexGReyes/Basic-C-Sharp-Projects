@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\classSubmission\\classSubmission",
-    "\\methodClassSubmission\\methodClassSubmission"
+    "\\methodClassSubmission\\methodClassSubmission",
+    "\\personAssignment",
+    "\\personAssignment\\personAssignment"
   ],
-  "SelectedNode": "\\methodClassSubmission",
+  "SelectedNode": "\\personAssignment\\personAssignment\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
