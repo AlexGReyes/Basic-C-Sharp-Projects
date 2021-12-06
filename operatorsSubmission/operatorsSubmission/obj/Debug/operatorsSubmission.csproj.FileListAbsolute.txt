@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\operatorsSubmission\operatorsSubmission\obj\Debug\operatorsSubmission.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\operatorsSubmission\operatorsSubmission\obj\Debug\operatorsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\operatorsSubmission\operatorsSubmission\bin\Debug\operatorsSubmission.exe.config
+C:\Users\Alex\source\repos\operatorsSubmission\operatorsSubmission\bin\Debug\operatorsSubmission.exe
+C:\Users\Alex\source\repos\operatorsSubmission\operatorsSubmission\bin\Debug\operatorsSubmission.pdb
+C:\Users\Alex\source\repos\operatorsSubmission\operatorsSubmission\obj\Debug\operatorsSubmission.exe
+C:\Users\Alex\source\repos\operatorsSubmission\operatorsSubmission\obj\Debug\operatorsSubmission.pdb
