@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\enumSubmission\enumSubmission\bin\Debug\enumSubmission.exe.config
+C:\Users\Alex\source\repos\enumSubmission\enumSubmission\bin\Debug\enumSubmission.exe
+C:\Users\Alex\source\repos\enumSubmission\enumSubmission\bin\Debug\enumSubmission.pdb
+C:\Users\Alex\source\repos\enumSubmission\enumSubmission\obj\Debug\enumSubmission.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\enumSubmission\enumSubmission\obj\Debug\enumSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\enumSubmission\enumSubmission\obj\Debug\enumSubmission.exe
+C:\Users\Alex\source\repos\enumSubmission\enumSubmission\obj\Debug\enumSubmission.pdb
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\enumSubmission\enumSubmission\bin\Debug\enumSubmission.exe.config
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\enumSubmission\enumSubmission\bin\Debug\enumSubmission.exe
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\enumSubmission\enumSubmission\bin\Debug\enumSubmission.pdb
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\enumSubmission\enumSubmission\obj\Debug\enumSubmission.csproj.AssemblyReference.cache
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\enumSubmission\enumSubmission\obj\Debug\enumSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\enumSubmission\enumSubmission\obj\Debug\enumSubmission.exe
+C:\Users\Alex\Source\Repos\AlexGReyes\Basic-C-Sharp-Projects\enumSubmission\enumSubmission\obj\Debug\enumSubmission.pdb
