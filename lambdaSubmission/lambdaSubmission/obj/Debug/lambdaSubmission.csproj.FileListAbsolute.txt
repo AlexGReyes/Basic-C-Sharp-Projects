@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\lambdaSubmission\lambdaSubmission\bin\Debug\lambdaSubmission.exe.config
+C:\Users\Alex\source\repos\lambdaSubmission\lambdaSubmission\bin\Debug\lambdaSubmission.exe
+C:\Users\Alex\source\repos\lambdaSubmission\lambdaSubmission\bin\Debug\lambdaSubmission.pdb
+C:\Users\Alex\source\repos\lambdaSubmission\lambdaSubmission\obj\Debug\lambdaSubmission.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\lambdaSubmission\lambdaSubmission\obj\Debug\lambdaSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\lambdaSubmission\lambdaSubmission\obj\Debug\lambdaSubmission.exe
+C:\Users\Alex\source\repos\lambdaSubmission\lambdaSubmission\obj\Debug\lambdaSubmission.pdb

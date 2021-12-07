@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\polymorphismSubmission",
+    "\\enumSubmission",
+    "\\enumSubmission\\enumSubmission",
     "\\polymorphismSubmission\\polymorphismSubmission"
   ],
-  "SelectedNode": "\\polymorphismSubmission\\polymorphismSubmission\\Program.cs",
+  "SelectedNode": "\\enumSubmission\\enumSubmission\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

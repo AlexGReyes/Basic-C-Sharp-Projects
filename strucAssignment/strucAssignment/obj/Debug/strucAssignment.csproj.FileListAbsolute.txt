@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\strucAssignment\strucAssignment\bin\Debug\strucAssignment.exe.config
+C:\Users\Alex\source\repos\strucAssignment\strucAssignment\bin\Debug\strucAssignment.exe
+C:\Users\Alex\source\repos\strucAssignment\strucAssignment\bin\Debug\strucAssignment.pdb
+C:\Users\Alex\source\repos\strucAssignment\strucAssignment\obj\Debug\strucAssignment.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\strucAssignment\strucAssignment\obj\Debug\strucAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\strucAssignment\strucAssignment\obj\Debug\strucAssignment.exe
+C:\Users\Alex\source\repos\strucAssignment\strucAssignment\obj\Debug\strucAssignment.pdb
