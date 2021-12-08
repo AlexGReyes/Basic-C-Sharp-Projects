@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\inputAssignment\inputAssignment\bin\Debug\inputAssignment.exe.config
+C:\Users\Alex\source\repos\inputAssignment\inputAssignment\bin\Debug\inputAssignment.exe
+C:\Users\Alex\source\repos\inputAssignment\inputAssignment\bin\Debug\inputAssignment.pdb
+C:\Users\Alex\source\repos\inputAssignment\inputAssignment\obj\Debug\inputAssignment.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\inputAssignment\inputAssignment\obj\Debug\inputAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\inputAssignment\inputAssignment\obj\Debug\inputAssignment.exe
+C:\Users\Alex\source\repos\inputAssignment\inputAssignment\obj\Debug\inputAssignment.pdb
