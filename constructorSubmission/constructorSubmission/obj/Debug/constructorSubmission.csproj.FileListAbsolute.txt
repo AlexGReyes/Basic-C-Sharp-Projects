@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\constructorSubmission\constructorSubmission\bin\Debug\constructorSubmission.exe.config
+C:\Users\Alex\source\repos\constructorSubmission\constructorSubmission\bin\Debug\constructorSubmission.exe
+C:\Users\Alex\source\repos\constructorSubmission\constructorSubmission\bin\Debug\constructorSubmission.pdb
+C:\Users\Alex\source\repos\constructorSubmission\constructorSubmission\obj\Debug\constructorSubmission.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\constructorSubmission\constructorSubmission\obj\Debug\constructorSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\constructorSubmission\constructorSubmission\obj\Debug\constructorSubmission.exe
+C:\Users\Alex\source\repos\constructorSubmission\constructorSubmission\obj\Debug\constructorSubmission.pdb
