@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\lambdaSubmission",
+    "\\constructorSubmission",
+    "\\constructorSubmission\\constructorSubmission",
     "\\lambdaSubmission\\lambdaSubmission"
   ],
-  "SelectedNode": "\\lambdaSubmission\\lambdaSubmission\\Program.cs",
+  "SelectedNode": "\\constructorSubmission\\constructorSubmission\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

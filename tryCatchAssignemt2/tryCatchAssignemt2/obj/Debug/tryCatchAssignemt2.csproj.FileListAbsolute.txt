@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\tryCatchAssignemt2\tryCatchAssignemt2\bin\Debug\tryCatchAssignemt2.exe.config
+C:\Users\Alex\source\repos\tryCatchAssignemt2\tryCatchAssignemt2\bin\Debug\tryCatchAssignemt2.exe
+C:\Users\Alex\source\repos\tryCatchAssignemt2\tryCatchAssignemt2\bin\Debug\tryCatchAssignemt2.pdb
+C:\Users\Alex\source\repos\tryCatchAssignemt2\tryCatchAssignemt2\obj\Debug\tryCatchAssignemt2.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\tryCatchAssignemt2\tryCatchAssignemt2\obj\Debug\tryCatchAssignemt2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\tryCatchAssignemt2\tryCatchAssignemt2\obj\Debug\tryCatchAssignemt2.exe
+C:\Users\Alex\source\repos\tryCatchAssignemt2\tryCatchAssignemt2\obj\Debug\tryCatchAssignemt2.pdb
