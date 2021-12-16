@@ -25,11 +25,11 @@ namespace CarInsurance.Controllers
             int years = DateTime.Now.Year - age.Year;
 
             if (years <= 0) return;
-            if( years < 18)                                                         // If the user is 18 and under, add $100 to the monthly total
+            if( years <= 18)                                                         // If the user is 18 and under, add $100 to the monthly total
             {
                 total += 100.00;
             }
-            else if( years < 25)                                                    // If the user is between 19 and 25, add $50 to the monthly total.
+            else if( years <= 25)                                                    // If the user is between 19 and 25, add $50 to the monthly total.
             {
                 total += 50.00;
             }
