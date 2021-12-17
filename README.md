@@ -39,7 +39,7 @@ This repository includes all the projects developed in The Tech Academy using C-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+## Projects
 <!-- PROJECTS -->
 <ol>
   <li>
