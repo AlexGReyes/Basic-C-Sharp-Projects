@@ -35,7 +35,11 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
-This repository includes all the projects developed in The Tech Academy using C-Sharp.
+While I was studying at The Tech Academy, I developed the following projects that helped me learn C#
+
+
+I am very grateful to the school staff (Adam, Rick, Patrick and others) and especially Andy, who were present throughout the course. Thanks to all.
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -103,7 +107,7 @@ This repository includes all the projects developed in The Tech Academy using C-
     <a href="">structAssignment</a> creation of structures
   </li>
   <li>
-    <a href="">studenDB</a> accesing to a Database to add and show registries using console
+    <a href="">studenDB</a> accesing to a Database to add registries using console
   </li>
   <li>
     <a href="">tryCatchAssignment</a> Exceptions in C#
